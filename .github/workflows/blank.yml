@@ -1,5 +1,4 @@
-name: Manuell Workflow
-
+name: Create ISO
 on:
   workflow_dispatch:   # <-- här anges att workflow kan startas manuellt
 
